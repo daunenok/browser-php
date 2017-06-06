@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	padding: 0 20px 100px;
+	background-color: blue;
+	text-align: center;
+	color: #fff;
+	font: 20px verdana, sans-serif;
+}
+h1 {
+	font-size: 250%;
+}
+p {
+	color: #000;
+	font-weight: bold;
+}
+.result {
+	font-size: 150%;
+	font-weight: bold;
+	color: #fff;
+}
